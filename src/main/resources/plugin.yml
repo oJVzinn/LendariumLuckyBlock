@@ -1,0 +1,5 @@
+name: LendariumLuckyBlock
+author: oJVzinn
+version: 1.0
+main: com.lendarium.ojvzinn.luckyblock.Main
+softdepend: [HolographicDisplays]

@@ -1,0 +1,17 @@
+luckyblock:
+  hologram:
+    caixas:
+      - '§b§lLUCKY BLOCK CAIXAS'
+      - '§eQuebre para abrir!'
+    armaduras:
+      - '§b§lLUCKY BLOCK ARMADURAS'
+      - '§eQuebre para abrir!'
+    spawners:
+      - '§b§lLUCKY BLOCK SPAWNERS'
+      - '§eQuebre para abrir!'
+    especiais:
+      - '§b§lLUCKY BLOCK ESPECIAIS'
+      - '§eQuebre para abrir!'
+    ferramentas:
+      - '§b§lLUCKY BLOCK FERRAMENTAS'
+      - '§eQuebre para abrir!'

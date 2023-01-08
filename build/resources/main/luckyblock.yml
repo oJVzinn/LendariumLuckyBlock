@@ -1,0 +1,26 @@
+luckyblock:
+  caixas:
+    conteiner:
+      - 'ITEM ; 54:0 : 1 : nome>&aCaixa Rara'
+      - 'SPAWN ; ZOMBIE :: 1 :: nome>§bBOB :: capacete>310:0 : 1 :: peitoral>311:0 : 1 :: calca>312:0 : 1 :: bota>313:0 : 1 :: mao>275:0 : 1'
+      - 'COMMAND ; tell {player} você deu sorte!'
+  armaduras:
+    conteiner:
+      - 'ITEM ; 54:0 : 1 : nome>&aCaixa Rara'
+      - 'SPAWN ; ZOMBIE :: 1 :: nome>§bBOB :: capacete>310:0 : 1 :: peitoral>311:0 : 1 :: calca>312:0 : 1 :: bota>313:0 : 1 :: mao>275:0 : 1'
+      - 'COMMAND ; tell {player} você deu sorte!'
+  spawners:
+    conteiner:
+      - 'ITEM ; 54:0 : 1 : nome>&aCaixa Rara'
+      - 'SPAWN ; ZOMBIE :: 1 :: nome>§bBOB :: capacete>310:0 : 1 :: peitoral>311:0 : 1 :: calca>312:0 : 1 :: bota>313:0 : 1 :: mao>275:0 : 1'
+      - 'COMMAND ; tell {player} você deu sorte!'
+  especiais:
+    conteiner:
+      - 'ITEM ; 54:0 : 1 : nome>&aCaixa Rara'
+      - 'SPAWN ; ZOMBIE :: 1 :: nome>§bBOB :: capacete>310:0 : 1 :: peitoral>311:0 : 1 :: calca>312:0 : 1 :: bota>313:0 : 1 :: mao>275:0 : 1'
+      - 'COMMAND ; tell {player} você deu sorte!'
+  ferramentas:
+    conteiner:
+      - 'ITEM ; 54:0 : 1 : nome>&aCaixa Rara'
+      - 'SPAWN ; ZOMBIE :: 1 :: nome>§bBOB :: capacete>310:0 : 1 :: peitoral>311:0 : 1 :: calca>312:0 : 1 :: bota>313:0 : 1 :: mao>275:0 : 1'
+      - 'COMMAND ; tell {player} você deu sorte!'
